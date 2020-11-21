@@ -1,0 +1,41 @@
+nav {
+    background-color:#802424;
+
+  }
+li{
+    float: right
+
+ }
+ li a {
+    display: block;
+    padding: 8px;
+    background-color: #b1adad; font-size: 15pt;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  body{background-color: blanchedalmond;}
+.name{color: rgb(103, 169, 231);
+font-size: 25pt;
+font: bold;
+text-align: center;}
+.occupation{text-align: center;
+font: italic;
+color: black;
+font-size: 20pt;}
+.title{text-align: center; font-size: 25pt;}
+
+img{height: 220px; width: 220px}
+h2{color: #802424;}
+p{font-size: 15pt;}
+.box-3{padding-left: 50px;padding-top: 50px;padding-right: 50px;padding-bottom: 50px;}
+.flex-container{display: flex;}
+
+
+    
+  
+  
+  
